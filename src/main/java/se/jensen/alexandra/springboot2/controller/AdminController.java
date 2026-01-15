@@ -12,3 +12,5 @@ public class AdminController {
         return "Admin page";
     }
 }
+
+// Test
